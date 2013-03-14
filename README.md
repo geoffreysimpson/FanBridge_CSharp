@@ -6,4 +6,5 @@ FanBridge C# API interface using RestSharp
 
 Web.Config data:
 
-* <add key="FanBridgeAPIVersion" value="v3" />
+Add a key named "FanBridgeAPIVersion" with a value of "v3"
+
